@@ -18,16 +18,11 @@ A Python-based chat application developed for educational purposes to demonstrat
 - **Firewall Configuration**: Ensure the server allows incoming TCP connections on port 50000 and clients allow outgoing connections.
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-url>
-   cd client-server-messaging
-   ```
-2. Verify the presence of `server.py`, `client.py`, `.gitignore`, `README.md`, and `LICENSE`:
+1. Verify the presence of `server.py`, `client.py`, `.gitignore`, `README.md`, and `LICENSE`:
    ```bash
    ls
    ```
-3. Confirm Python 3 is installed:
+2. Confirm Python 3 is installed:
    ```bash
    python3 --version
    ```
